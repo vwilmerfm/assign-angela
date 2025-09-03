@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vwilmerfm/assign-angela/static/css/main.61738efa.css",
-    "main.js": "/vwilmerfm/assign-angela/static/js/main.5d9bdda6.js",
-    "static/js/453.be6b4429.chunk.js": "/vwilmerfm/assign-angela/static/js/453.be6b4429.chunk.js",
-    "index.html": "/vwilmerfm/assign-angela/index.html",
-    "main.61738efa.css.map": "/vwilmerfm/assign-angela/static/css/main.61738efa.css.map",
-    "main.5d9bdda6.js.map": "/vwilmerfm/assign-angela/static/js/main.5d9bdda6.js.map",
-    "453.be6b4429.chunk.js.map": "/vwilmerfm/assign-angela/static/js/453.be6b4429.chunk.js.map"
+    "main.css": "/assign-angela/static/css/main.61738efa.css",
+    "main.js": "/assign-angela/static/js/main.a8f50e8e.js",
+    "static/js/453.be6b4429.chunk.js": "/assign-angela/static/js/453.be6b4429.chunk.js",
+    "index.html": "/assign-angela/index.html",
+    "main.61738efa.css.map": "/assign-angela/static/css/main.61738efa.css.map",
+    "main.a8f50e8e.js.map": "/assign-angela/static/js/main.a8f50e8e.js.map",
+    "453.be6b4429.chunk.js.map": "/assign-angela/static/js/453.be6b4429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61738efa.css",
-    "static/js/main.5d9bdda6.js"
+    "static/js/main.a8f50e8e.js"
   ]
 }
