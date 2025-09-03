@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vwilmerfm/assign-angela/static/css/main.61738efa.css",
+    "main.js": "/vwilmerfm/assign-angela/static/js/main.5d9bdda6.js",
+    "static/js/453.be6b4429.chunk.js": "/vwilmerfm/assign-angela/static/js/453.be6b4429.chunk.js",
+    "index.html": "/vwilmerfm/assign-angela/index.html",
+    "main.61738efa.css.map": "/vwilmerfm/assign-angela/static/css/main.61738efa.css.map",
+    "main.5d9bdda6.js.map": "/vwilmerfm/assign-angela/static/js/main.5d9bdda6.js.map",
+    "453.be6b4429.chunk.js.map": "/vwilmerfm/assign-angela/static/js/453.be6b4429.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61738efa.css",
+    "static/js/main.5d9bdda6.js"
+  ]
+}
